@@ -1,18 +1,7 @@
 
 # models
 
+method:
+1.Logistic Regression package:78.7 score in test set 
 
-
-<1>  90% accuracy in training set and 80% accuracy in testing set(submit model):
-
-
-
-Classifier8.pkl
-
-
-
-<2>  96% accuracy in training set and 73% accuracy in testing set(overfitting model):
-
-
-
-overfitting_Classifier.pkl
+2.logistic network: 81.56 score in test set
