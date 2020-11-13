@@ -10,3 +10,7 @@ Because number of negative and positive label are not extreme , we use accuracy 
 # hyperparameters search
 
 We use RandomSearch and KFold to pick the best model.
+
+# kaggle score
+
+0.79186
