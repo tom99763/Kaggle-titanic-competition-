@@ -1,8 +1,12 @@
 
 # models
 
-method:
+compare logistic regression and deep logistic network 
 
-1.Logistic Regression package : 0.787 score in test set 
+# metrics
 
-2.logistic network : 0.821 score in test set,and this get 0.78708 score in submit data.
+because number of negative and positive label are not extreme , we use accuracy as our metrics rather than f1 score.
+
+# hyperparameters search
+
+we use RandomSearch and KFold to pick the best model.
